@@ -867,5 +867,24 @@ textarea {
 	margin-right: auto;
 	text-align: center;
 }
-
+.skills-section {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+	justify-content: center;
+}
+.skill {
+	text-align: center;
+}
+.skill i {
+	font-size: 220%;
+}
+.skills-title span {
+	display: block;
+	margin-top: 5px;
+}
+.skill-icon {
+	padding: 0;
+	list-style: none;
+}
 /*# sourceMappingURL=base.css.map */
